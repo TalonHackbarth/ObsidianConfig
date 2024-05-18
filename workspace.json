@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "ed78297e093f84ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1e5f03ae16b72e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6214f21e31e5072",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Projects/Japan/202405181223 Flights.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "670591f9a72669dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e67aee4df75b2ed",
+        "type": "tabs",
+        "dimension": 61.561866125760645,
+        "children": [
+          {
+            "id": "d79031e85c765bee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "015b2e1f64d0be8f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c216a162a520f0a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "455a921d49ec1296",
+        "type": "tabs",
+        "dimension": 38.43813387423935,
+        "children": [
+          {
+            "id": "aa5a272016a68631",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f148ae44d7bfe57b",
+    "type": "split",
+    "children": [
+      {
+        "id": "627537387ab55912",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d36a111ba562a1b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02 - Projects/Japan/202405181223 Flights.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29666de14ed7c5f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 - Projects/Japan/202405181223 Flights.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6255f371dcca721e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c109cdc0a2f28a35",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 - Projects/Japan/202405181223 Flights.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "d79031e85c765bee",
+  "lastOpenFiles": [
+    "02 - Projects/Japan/202405181204 Destinations.md",
+    "02 - Projects/Japan/202405181223 Flights.md",
+    "02 - Projects/Japan/Untitled.md",
+    "99 - Images/Screenshot 2024-02-03 222753.png",
+    "terrainmapjapan_b.png",
+    "99 - Images/terrainmapjapan.png",
+    "06 - Daily/2024-05-18.md",
+    "99 - Tags/Self Improvement.md",
+    "03 - Areas/Theocratic/Untitled.canvas",
+    "06 - Daily/2024-05-15.md",
+    "03 - Areas/Theocratic/202405172327 A Positive Attitude Helps Us Remain Useful to Jehovah.md",
+    "99 - Tags/Travel.md",
+    "[[Travel]].md",
+    "99 - Tags/Creation.md",
+    "99 - Tags/Quotes.md",
+    "07 - Main Notes/202405172303 Books To Read.md",
+    "07 - Main Notes/202405172302 Movies To Watch.md",
+    "00 - Templates/Daily.md",
+    "99 - Tags/Paradise.md",
+    "99 - Tags/Hope.md",
+    "99 - Tags/Bible.md",
+    "99 - Tags/Talk.md",
+    "99 - Tags/Prophecy.md",
+    "99 - Tags/Reading.md",
+    "99 - Tags/Python.md",
+    "99 - Tags/Golang.md",
+    "99 - Tags/Computer Science.md",
+    "99 - Tags/Japan.md",
+    "99 - Tags/Jesus.md",
+    "99 - Tags/Jehovah.md",
+    "03 - Areas/Psychology",
+    "02 - Projects/Japan",
+    "07 - Main Notes",
+    "03 - Areas/Japanese",
+    "03 - Areas/2D Game Dev",
+    "03 - Areas/Theocratic/Notes",
+    "03 - Areas/Theocratic",
+    "03 - Areas/Linux",
+    "99 - Images/Diagram.png",
+    "99 - Images",
+    "00 - Templates",
+    "Diagram.png",
+    "Infrastructure/Untitled.canvas",
+    "Untitled.canvas",
+    "Interview Questions/Untitled.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}

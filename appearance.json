@@ -1,0 +1,10 @@
+{
+  "accentColor": "#919191",
+  "cssTheme": "Obsidian gruvbox",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": [
+    "sidebar"
+  ]
+}
