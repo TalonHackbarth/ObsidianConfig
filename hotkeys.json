@@ -22,5 +22,13 @@
       ],
       "key": "M"
     }
+  ],
+  "obsidian-export-image:export-image": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "I"
+    }
   ]
 }

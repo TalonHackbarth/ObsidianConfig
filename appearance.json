@@ -5,6 +5,8 @@
   "textFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "JetBrains Mono",
   "enabledCssSnippets": [
-    "sidebar"
+    "sidebar",
+    "images",
+    "timelines"
   ]
 }

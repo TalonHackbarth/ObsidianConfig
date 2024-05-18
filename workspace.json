@@ -13,13 +13,49 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Projects/Japan/202405181223 Flights.md",
+                "file": "02 - Projects/Japan/202405181344 Osaka.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75058d10239bffcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Projects/Japan/202405181344 Osaka.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "792ed35dd4eecc10",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "02 - Projects/Japan/Japan Canvas.canvas",
+                "viewState": {
+                  "x": 540,
+                  "y": -560,
+                  "zoom": -0.7067267115056777
+                }
+              }
+            }
+          },
+          {
+            "id": "4ade74cb16e063a4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Projects/Japan/202405181223 Flights.md",
+                "file": "02 - Projects/Japan/Japan Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Projects/Japan/202405181223 Flights.md",
+                "file": "02 - Projects/Japan/Japan Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Projects/Japan/202405181223 Flights.md"
+                "file": "02 - Projects/Japan/Japan Canvas.canvas"
               }
             }
           }
@@ -163,15 +199,31 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d79031e85c765bee",
+  "active": "792ed35dd4eecc10",
   "lastOpenFiles": [
+    "02 - Projects/Japan/Japan Canvas.canvas",
+    "02 - Projects/Japan/202405181456 Kyoto.md",
+    "06 - Daily/2024-05-18.md",
+    "02 - Projects/Japan/202405181344 Osaka.md",
     "02 - Projects/Japan/202405181204 Destinations.md",
+    "02 - Projects/Japan/202405181239 Timeline.md",
+    "99 - Images/Pasted image 20240518144555.png",
+    "02 - Projects/Japan/202405181239 Timeline.docx",
+    "02 - Projects/Japan/202405181239 Timeline.tex",
     "02 - Projects/Japan/202405181223 Flights.md",
+    "99 - Images/Pasted image 20240518135024.png",
+    "99 - Tags/City.md",
+    "99 - Images/Pasted image 20240518141921.png",
+    "02 - Projects/Japan/202405181337 Lodging.md",
+    "99 - Images/Pasted image 20240518135107.png",
+    "Untitled.md",
+    "02 - Projects/Japan/202405172322 Passport.md",
+    "99 - Images/Pasted image 20240518130000.png",
+    "202405181237.md",
     "02 - Projects/Japan/Untitled.md",
     "99 - Images/Screenshot 2024-02-03 222753.png",
     "terrainmapjapan_b.png",
     "99 - Images/terrainmapjapan.png",
-    "06 - Daily/2024-05-18.md",
     "99 - Tags/Self Improvement.md",
     "03 - Areas/Theocratic/Untitled.canvas",
     "06 - Daily/2024-05-15.md",
@@ -186,15 +238,6 @@
     "99 - Tags/Paradise.md",
     "99 - Tags/Hope.md",
     "99 - Tags/Bible.md",
-    "99 - Tags/Talk.md",
-    "99 - Tags/Prophecy.md",
-    "99 - Tags/Reading.md",
-    "99 - Tags/Python.md",
-    "99 - Tags/Golang.md",
-    "99 - Tags/Computer Science.md",
-    "99 - Tags/Japan.md",
-    "99 - Tags/Jesus.md",
-    "99 - Tags/Jehovah.md",
     "03 - Areas/Psychology",
     "02 - Projects/Japan",
     "07 - Main Notes",
@@ -204,8 +247,6 @@
     "03 - Areas/Theocratic",
     "03 - Areas/Linux",
     "99 - Images/Diagram.png",
-    "99 - Images",
-    "00 - Templates",
     "Diagram.png",
     "Infrastructure/Untitled.canvas",
     "Untitled.canvas",
